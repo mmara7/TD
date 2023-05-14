@@ -1,0 +1,105 @@
+body{
+    padding: 20px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#widget {
+    width: 60px;
+    background-color: violet;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#equal {
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    border: 0px;
+}
+
+#firstNumber {
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    border: 0px;
+}
+
+#secondNumber {
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    border: 0px;
+}
+
+#inc {
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    border: 0px;
+}
+#dec {
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    border: 0px;
+}
+#inm {
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    border: 0px;
+}
+#imp {
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    border: 0px;
+}
+
+#result {
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    border: 0px;
+}
