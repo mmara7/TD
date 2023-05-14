@@ -1,0 +1,69 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: rgb(135, 0, 198);
+  margin-top: 100px;
+  background-color: bisque;
+}
+
+
+#app {
+  width: 25%;
+  margin: 0 auto 0 auto;
+}
+
+.user-list {
+  padding: 0px;
+  list-style-type: none;
+}
+
+.title {
+  background-color: rgb(234, 121, 234);
+  padding: 15px 15px 5px 10px;
+  color: white;
+  font-size: 20px;
+}
+
+.user-row-header {
+  padding: 20px 0px 5px 0px;
+  text-align: left;
+  font-weight: bold;
+  border-bottom: 2px solid #c250de;
+}
+
+.user-row {
+  border-bottom: 1px solid #c250de;
+  padding: 15px 0px 5px 0px;
+  text-align: left;
+}
+
+.user-row:hover {
+  background-color: #b787e4;
+  cursor: pointer;
+}
+
+.user-name {
+  width: 25%;
+  display: inline-block;
+}
+
+.user-city {
+  width: 25%;
+  display: inline-block;
+}
+
+.btn-delete {
+  margin-left: 5px;
+  display: inline-block;
+  
+}
+
+.btn-update {
+  margin-left: 5px;
+  display: inline-block;
+}
+
+button{
+  background-color: #E455FA;
+  border-radius: 3px;
+  width: 70px;
+}
